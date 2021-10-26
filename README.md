@@ -1,2 +1,2 @@
 # KU_CFS
-cfs 구현
+Linux 로 cfs 구현
